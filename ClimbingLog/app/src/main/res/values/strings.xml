@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Climbing Log</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="emptystring" />
+    <string name="title_activity_extra">ExtraActivity</string>
+</resources>
