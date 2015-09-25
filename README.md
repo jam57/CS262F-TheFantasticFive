@@ -1,2 +1,2 @@
-# cs214f-TheFantasticFive
+# cs262f-TheFantasticFive
 Climbing Log Android App
